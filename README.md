@@ -57,4 +57,39 @@ It helps institutions manage **students, admissions, courses, and fee tracking**
 
 ---
 
-## 📂 Folder Structure  
+## 📸 Sample Screenshots  
+- ✅ **Org Setup** – Company Profile & Users  
+- ✅ **Student Object** – Fields & Relationships  
+- ✅ **Fee Status Report** – Paid vs Pending Fees  
+- ✅ **Admissions Dashboard** – Applications & Conversions  
+
+---
+
+## 🎯 Goal  
+To deliver an **end-to-end digital CRM for colleges** that improves:  
+- Administrative efficiency  
+- Student lifecycle management  
+- Transparency in fees & admissions  
+- Data-driven decision-making  
+
+---
+
+## 👤 Roles & Permissions  
+- **Admin** → Full system access  
+- **Admission Officer** → Manage student applications & enrollment  
+- **Finance Officer** → Handle fees & generate reports  
+- **Faculty** → Manage courses & student performance  
+- **Student** → Access personal info, fees & enrolled courses  
+
+---
+
+## ✅ Outcome  
+- 📊 **Data-driven dashboards & reports**  
+- 🔒 **Secure role-based access**  
+- ⚡ **Automated workflows for admissions & fees**  
+- 🎓 **Improved student & staff experience**  
+
+---
+
+✨ Built with **Salesforce CRM + VS Code** to bring **digital transformation to higher education**.  
+
