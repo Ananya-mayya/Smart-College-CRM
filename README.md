@@ -57,14 +57,6 @@ It helps institutions manage **students, admissions, courses, and fee tracking**
 
 ---
 
-## 📸 Sample Screenshots  
-- ✅ **Org Setup** – Company Profile & Users  
-- ✅ **Student Object** – Fields & Relationships  
-- ✅ **Fee Status Report** – Paid vs Pending Fees  
-- ✅ **Admissions Dashboard** – Applications & Conversions  
-
----
-
 ## 🎯 Goal  
 To deliver an **end-to-end digital CRM for colleges** that improves:  
 - Administrative efficiency  
